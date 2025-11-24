@@ -1,4 +1,4 @@
-# Data-analyst-tasks
+# Data-analyst-tasks 7 day challenge.
 📉This repository contains my 7day Data Analytics Challenge, including basic data concepts, Excel formulas, tasks, and, daily, practice exercises"
 ____________________________________
 
